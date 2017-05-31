@@ -7,7 +7,7 @@ to tell the html "yo theres some cool information in main.css", and will, for la
 
 You can connect multiple css files to html, however it doesn't go the other way around. for now stick to just one html file.
 
-To see your changes in action, just double click on the index.html file within this folder and it will bring you to one of your
+To see your changes in action, clone (download) the repository to your desktop, and just double click on the index.html file within this folder and it will bring you to one of your
 browsers. Make a change, save it, and refresh the page on your browser, and you'll see it change really quick.
 
 --------
