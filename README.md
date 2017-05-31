@@ -34,6 +34,8 @@ https://www.w3schools.com/jquery/jquery_get_started.asp (to add Jquery into your
 
 https://www.w3schools.com/html/default.asp (basic html)
 
+Git & Git Bash (So you can be like a real #coder) https://git-for-windows.github.io <-- download this
+
 (you can google css w3school)
 
 *NOTE: sometimes it is difficult to figure out what you need because starting out you don't know how to really ask a question or google something. Just let me know if you have trouble with that and i can help out.
